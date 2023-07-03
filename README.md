@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Angélica Palencia
-- 🌱 I’m currently learning front end on Alura Latam, supported by Oracle ONE
+- 👋 Hi, I’m Angie Plata
+- 🌱 I’m currently studying Software Analysis and Development at SENA (Colombia)
 - 💞️ I’m looking to collaborate on web design projects
-- 📫 How to reach me: email me at apalencia0910@gmail.com
+- 📫 How to reach me: email me at angelicaplata.va@gmail.com
 
 <!---
 apalplata/apalplata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
